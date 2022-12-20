@@ -1,0 +1,121 @@
+{
+   
+   "pt": {
+        "texts": {
+            "header": {
+                "home": "Home",
+                "aboutme": "Sobre mim",
+                "portfolio": "Portfólio",
+                "contact": "Contato"
+            },
+            "inicialBanner": {
+                "greetings": "Olá, eu sou a",
+                "description": "Desenvolvedora Front-End",
+                "buttons": {
+                    "projects" : "Projetos",
+                    "skills": "Skills"
+                }
+            },
+            "AboutMe": {
+                "timeline": {
+                    "childhood": {
+                        "pink": {
+                            "text1": "Desde cedo demonstrava interesse por atividades ",
+                            "pink": "visuais",
+                            "text2": ""
+                        },
+                        "blue":{
+                            "text1": "Jogos e brinquedos que envolviam ",
+                            "blue": "lógica ",
+                            "text2": "eram meus preferidos"
+                        }
+                    },
+                    "teen": {
+                        "pink": {
+                            "text1": "Evoluí na pintura e outras diversas habilidades ",
+                            "pink": "artísticas ",
+                            "text2": ", participando de exposições e concursos"
+                        },
+                        "blue":{
+                            "text1": "",
+                            "blue": "Matemática ",
+                            "text2": "era minha disciplina favorita, ganhei medalhas e premiações em olimpiadas escolares"
+                        }
+                    },
+                    "young": {
+                        "pink": {
+                            "text1": "Ingressei na faculdade de ",
+                            "pink": "Cinema e Audiovisual ",
+                            "text2": "na UFJF, onde cursei por dois anos"
+                        },
+                        "blue":{
+                            "text1": "Me formei em ",
+                            "blue": "Análise e Desenvolvimento de Sistemas ",
+                            "text2": "na Universidade Estácio em 2022"
+                        }
+                    }
+
+                }
+            }
+        }
+    },
+   "en": {
+        "texts": {
+            "header": {
+                "home": "Home",
+                "aboutme": "About me",
+                "portfolio": "Portfolio",
+                "contact": "Contact"
+            },
+            "inicialBanner": {
+                "greetings": "Hello, I'm",
+                "description": "Front-End Developer",
+                "buttons": {
+                    "projects" : "Projects",
+                    "skills": "Skills"
+                }
+            }, 
+            "AboutMe": {
+                "timeline": {
+                    "childhood": {
+                        "pink": {
+                            "text1": "Started showing interest for ",
+                            "pink": "visual",
+                            "text2": "activities"
+                        },
+                        "blue":{
+                            "text1": "",
+                            "blue": "Logic ",
+                            "text2": " games and toys were my favorites"
+                        }
+                    },
+                    "teen": {
+                        "pink": {
+                            "text1": "Improved painting e other several ",
+                            "pink": "artistics ",
+                            "text2": "skills and participated in exibihitings and contests"
+                        },
+                        "blue":{
+                            "text1": "",
+                            "blue": "Math ",
+                            "text2": "was my favorite discipline, earned medals and prizes in Education Olympics"
+                        }
+                    },
+                    "young": {
+                        "pink": {
+                            "text1": "Went to college for ",
+                            "pink": "Film Making ",
+                            "text2": "at the Federal University of Juiz de Fora, where I stayed for two years"
+                        },
+                        "blue":{
+                            "text1": "Graduated to ",
+                            "blue": "Analysis and Systems Development ",
+                            "text2": "at the Estácio University in 2022"
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
